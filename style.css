@@ -1,0 +1,89 @@
+body {
+    background-image: url(../image/fon.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.rgb {
+    color: red;
+    color: rgba(red, green, blue, alpha);
+}
+
+.huh {
+    margin-left: 289px;
+    margin-bottom: 0px;
+}
+
+.ahah {
+    width: 258px;
+    height: 362px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.ah {
+    width: 258px;
+    height: 362px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.da {
+    width: 600px;
+    border-radius: 100px;
+    margin-left: 450px;
+    border: dashed;
+}
+
+.h {
+    font-family: 'Caveat', cursive;
+    color: rgb(0, 0, 0);
+    border: double;
+    border-radius: 25px;
+    border-color: azure;
+    padding: 5px;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    border-width: 5px;
+}
+
+main {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    background-color: rgba(255, 255, 255, 0.256);
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.block {
+    margin-left: 50px;
+    margin-right: 50px
+}
+
+.coc {
+    color: black;
+    background-color: rgba(255, 255, 255, 0.599);
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 1px;
+    border: dotted;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+.qw {
+    margin-left: 20px;
+}
+
+.karta {
+    margin-left: 83px;
+}
